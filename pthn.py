@@ -11,3 +11,6 @@ elif op=="*":
      print("Multiplication is= ",x*y)
 else :
      print("Division is= ",x/y)
+
+ # or
+print("Hello world")
